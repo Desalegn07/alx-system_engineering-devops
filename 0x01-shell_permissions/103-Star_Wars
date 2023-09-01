@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 666 "A New Hope"
+telnet towel.blinkenlights.nl
