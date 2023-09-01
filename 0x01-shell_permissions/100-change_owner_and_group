@@ -1,2 +1,2 @@
 #!/bin/bah
-chown -R vincent:staff
+chown vincent:staff *
